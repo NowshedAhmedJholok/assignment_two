@@ -8,6 +8,9 @@ is greater than or equal to 70 print Passed. Print Failed otherwise
 
 
 Sample Output
+
  Student's average grade: 80.0 
+ 
 Rounded average: 80
+
 Passed
